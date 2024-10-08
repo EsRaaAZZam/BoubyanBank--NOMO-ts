@@ -20,8 +20,7 @@ This repository contains Login testing scripts for mobile  using WebdriverIO and
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone <repository-url>
-cd e2e-testing
+git clone https://github.com/EsRaaAZZam/BoubyanBank--NOMO-ts.git
 
 
 ## Install the dependencies:
